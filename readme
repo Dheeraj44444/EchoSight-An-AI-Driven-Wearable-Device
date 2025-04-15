@@ -4,12 +4,12 @@
 
 ## 🔧 Features
 
-- 🎯 Real-time face recognition using dlib and OpenCV  
-- 📦 Object detection with YOLOv4-tiny and COCO dataset  
-- 🔊 Audio feedback using `pyttsx3` text-to-speech engine  
-- 📡 Distance measurement via WebSocket from an ultrasonic sensor (NodeMCU)  
-- 🧠 Recognizes known individuals from the `images/` folder and greets them  
-- 🦺 Announces detected objects along with distance in cm  
+- 🎯 Real-time face recognition using dlib and OpenCV
+- 📦 Object detection with YOLOv4-tiny and COCO dataset
+- 🔊 Audio feedback using `pyttsx3` text-to-speech engine
+- 📡 Distance measurement via WebSocket from an ultrasonic sensor (NodeMCU)
+- 🧠 Recognizes known individuals from the `images/` folder and greets them
+- 🦺 Announces detected objects along with distance in cm
 
 ## 📁 Project Structure
 
@@ -74,3 +74,7 @@ Hello, Dheeraj
 There is a person at 45 cm
 There is a bottle at 30 cm
 ```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
